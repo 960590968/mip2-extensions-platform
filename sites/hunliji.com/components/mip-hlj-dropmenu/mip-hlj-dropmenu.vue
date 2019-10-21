@@ -205,7 +205,7 @@ export default {
     display: block;
     width: 36PX;
     height: 36PX;
-    background: url('https://qnm.hunliji.com/o_1ckfceqa21mep1sq21k54ef21sap66.png') 0 0 no-repeat;
+    background: url('https://qnm.hunliji.com/o_1dnef2u9ja4g1jkjo3lnt2tuq11.png') 0 0 no-repeat;
     background-size: contain;
     margin-right: 8PX;
   }
